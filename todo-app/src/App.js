@@ -2,7 +2,6 @@ import React, { useRef, useState } from "react";
 import { Form, Outlet } from "react-router-dom";
 import "./css/todoApp.css";
 import "./css/tooltip.css";
-import "./css/formAnimation.scss";
 
 function App() {
   const newUserRef = useRef(null);
