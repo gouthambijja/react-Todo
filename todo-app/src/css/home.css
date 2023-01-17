@@ -1,0 +1,85 @@
+@font-face {
+  font-family: logo;
+  src: url(../fonts/logo.otf);
+}
+.home-layout {
+  width: 100vw;
+  height: 100vh;
+  background: linear-gradient(90deg, #7a0358, #0e0357);
+}
+.navBar {
+  width: 100%;
+  height: 58px;
+  background: linear-gradient(90deg, #7a0358, #0e0357);
+  display: flex;
+  justify-content: space-between;
+}
+.navbar-ul {
+  display: flex;
+  width: 40%;
+  height: 58px;
+  list-style: none;
+  padding-left: 5%;
+  justify-content: left;
+  align-items: center;
+}
+.navbar-ul li {
+  cursor: pointer;
+}
+
+.navbar-ul div {
+  margin: 0px 20px;
+}
+.navbar-ul li a {
+  text-decoration: none;
+}
+.navbar-utils {
+  display: flex;
+  height: 58px;
+  align-items: center;
+  color: #fff;
+}
+.navbar-util {
+  margin: 0px 20px;
+}
+
+.sign-out:hover {
+  cursor: pointer;
+}
+
+#logo {
+  width: 5%;
+  position: absolute;
+  top: 0%;
+  left: 0%;
+  background-color: rgb(255, 255, 255);
+  height: 58px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+#Todos,
+#Profile {
+  padding: 20px;
+  color: white;
+}
+.home {
+  color: #7a0358;
+  font-family: logo;
+}
+#Todos.active,
+#Profile.active {
+  background-color: rgba(44, 4, 67, 0.423);
+}
+@media (max-width: 768px) {
+  .navbar-ul {
+    width: 100%;
+    padding-left: 0px;
+  }
+  div.navbar-util {
+    display: none;
+  }
+  #logo {
+    display: none;
+  }
+}

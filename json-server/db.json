@@ -1,0 +1,225 @@
+{
+  "users": [
+    {
+      "id": 234
+    },
+    {
+      "id": "123"
+    },
+    {
+      "id": "1"
+    },
+    {
+      "id": "5"
+    },
+    {
+      "id": "9"
+    },
+    {
+      "id": "23",
+      "name": "magekyo sharingan",
+      "age": "32",
+      "email": "kakarot@gmail.com",
+      "phoneNo": "040-24353"
+    },
+    {
+      "id": "2345"
+    },
+    {
+      "id": "111"
+    },
+    {
+      "id": "12"
+    },
+    {
+      "id": "24"
+    },
+    {
+      "id": "243",
+      "name": "kakssdjdflfk",
+      "age": "23",
+      "email": "lka@gmail.com",
+      "phoneNo": "09824"
+    },
+    {
+      "id": "2",
+      "name": "ashwini",
+      "age": "18",
+      "email": "ash@gmail.com",
+      "phoneNo": "7793992130"
+    }
+  ],
+  "todos": [
+    {
+      "userId": 234,
+      "id": 1,
+      "title": "delectus aut autem",
+      "category": "work",
+      "check": false
+    },
+    {
+      "userId": "234",
+      "title": "lkjsflkjasflsjfl",
+      "category": "work",
+      "check": false,
+      "id": 33
+    },
+    {
+      "userId": "234",
+      "title": "kakarot",
+      "category": "work",
+      "check": false,
+      "id": 34
+    },
+    {
+      "userId": "234",
+      "title": "hey",
+      "category": "work",
+      "check": false,
+      "id": 35
+    },
+    {
+      "userId": "234",
+      "title": "sumanth",
+      "description": "inturi",
+      "category": "work",
+      "check": false,
+      "id": 37
+    },
+    {
+      "userId": "234",
+      "title": "hey",
+      "description": "myan",
+      "category": "work",
+      "check": false,
+      "id": 38
+    },
+    {
+      "userId": "234",
+      "title": "mbmbjbk,",
+      "description": "mn mnb ",
+      "category": "work",
+      "check": false,
+      "id": 39
+    },
+    {
+      "userId": "234",
+      "title": "kljasdf",
+      "description": "lkjasdf",
+      "category": "work",
+      "check": false,
+      "id": 40
+    },
+    {
+      "userId": 234,
+      "title": "kakarot",
+      "description": "sharingan",
+      "category": "work",
+      "check": false,
+      "id": 41
+    },
+    {
+      "userId": "23",
+      "title": "ljdsf",
+      "description": "l;kjsdd",
+      "category": "work",
+      "check": false,
+      "id": 75
+    },
+    {
+      "userId": "23",
+      "title": "sdf",
+      "description": "sd",
+      "category": "work",
+      "check": true,
+      "id": 76
+    },
+    {
+      "userId": "23",
+      "title": "s",
+      "description": "d",
+      "category": "work",
+      "check": true,
+      "id": 77
+    },
+    {
+      "userId": "23",
+      "title": "d",
+      "description": "d",
+      "category": "work",
+      "check": true,
+      "id": 78
+    },
+    {
+      "userId": "23",
+      "title": "kljsad",
+      "description": "lkjsdd",
+      "category": "work",
+      "check": true,
+      "id": 79
+    },
+    {
+      "userId": "23",
+      "title": "kakarot",
+      "category": "work",
+      "description": "mangekyi",
+      "check": true,
+      "id": 80
+    },
+    {
+      "userId": "23",
+      "title": "gym",
+      "category": "health",
+      "description": "wake up in the morning and sleep again😎",
+      "check": false,
+      "id": 81
+    },
+    {
+      "userId": "23",
+      "title": "lkjsdklfjaklsdjf",
+      "category": "others",
+      "description": "lkjasldkffjal;ksdfj",
+      "check": false,
+      "id": 82
+    },
+    {
+      "userId": "23",
+      "title": "kakarot",
+      "category": "others",
+      "description": "mangekyo",
+      "check": false,
+      "id": 83
+    },
+    {
+      "userId": "23",
+      "title": "lkj",
+      "description": ";kjasdd",
+      "check": true,
+      "id": 84
+    },
+    {
+      "userId": "23",
+      "title": "the joint al mandi",
+      "category": "work",
+      "description": "mangekyi",
+      "check": false,
+      "id": 85
+    },
+    {
+      "userId": "243",
+      "title": "kakarot",
+      "category": "dailyRoutine",
+      "description": "mangekyi",
+      "check": true,
+      "id": 86
+    },
+    {
+      "userId": "2",
+      "title": "sleep",
+      "category": "health",
+      "description": "imp",
+      "check": false,
+      "id": 89
+    }
+  ]
+}
