@@ -2,6 +2,7 @@ import React, { useRef, useState } from "react";
 import { Form, Outlet } from "react-router-dom";
 import "./css/todoApp.css";
 import "./css/tooltip.css";
+import "./css/formAnimation.scss";
 
 function App() {
   const newUserRef = useRef(null);
@@ -33,8 +34,7 @@ function App() {
 
   return (
     <div className="authenticateContainer">
-      <div id="to">TO</div>
-      <div className="formContainer">
+      <div className="formContainer box">
         <Form method="post" id={"enterForm"} action="#">
           <div className="formElement ">
             <label className="fw" htmlFor="userId">
@@ -159,7 +159,6 @@ function App() {
           </div>
         </Form>
       </div>
-      <div id="do">DO</div>
       <Outlet />
     </div>
   );
