@@ -73,7 +73,6 @@ function App() {
             {" "}
             <input
               className="fw"
-              pattern="[0-9]{1,7}"
               type="text"
               placeholder="id in Numbers"
               autoComplete="off"
@@ -90,7 +89,8 @@ function App() {
             <input
               className="fw"
               type="text"
-              pattern="[a-z]{1,12}"
+              pattern="[A-Za-z]{1,12}"
+              title="enter 1-12 letters,only small letters allowed"
               placeholder="name"
               autoComplete="off"
               name="newUserName"
