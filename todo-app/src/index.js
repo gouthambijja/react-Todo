@@ -22,6 +22,7 @@ import "react-bootstrap/dist/react-bootstrap";
 import "bootstrap/dist/css/bootstrap.min.css";
 import IndividualTodo from "./components/IndividualTodo";
 import Welcome from "./components/Welcome";
+import './css/animation.scss'
 
 const container = document.getElementById("root");
 const root = createRoot(container);

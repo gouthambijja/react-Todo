@@ -72,7 +72,7 @@ function App() {
           <div className="formElement ">
             {" "}
             <input
-              className="fw"
+              className="fw"  
               type="text"
               placeholder="id in Numbers"
               autoComplete="off"

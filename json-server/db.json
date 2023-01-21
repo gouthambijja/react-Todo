@@ -20,7 +20,7 @@
       "name": "magekyo sharingan",
       "age": "32",
       "email": "kakarot@gmail.com",
-      "phoneNo": "040-24353"
+      "phoneNo": "040-24www353"
     },
     {
       "id": "2345"
@@ -200,14 +200,6 @@
       "description": "wake up in the morning and sleep again😎",
       "check": false,
       "id": 81
-    },
-    {
-      "userId": "23",
-      "title": "lkjsdklfjaklsdjf",
-      "category": "others",
-      "description": "lkjasldkffjal;ksdfj",
-      "check": true,
-      "id": 82
     },
     {
       "userId": "23",
